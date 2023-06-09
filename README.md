@@ -3,7 +3,7 @@
 <img align="right" src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd_w200.gif"/>
 </p>
 
-- 🌱 I’m currently learning **Java, javascript, html, css, angular**
+- 🌱 I’m currently learning **Java, javascript, linux, devOps**
 
 - 📫 How to reach me **dino15031992@gmail.com**
 
