@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dino Petrucci</h1>
-<h3 align="center">JUNIOR JAVA BACKEND</h3>
+<h3 align="center">JUNIOR JAVA BACKEND / CLOUD&DEVOPS ENGINEER JR</h3>
 <img align="right" src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd_w200.gif"/>
 </p>
 
